@@ -1,4 +1,3 @@
 from datetime import datetime
-print("Razi")
-print("Welcome to Git Assignment")
+print("Welcome to Git Assignment, Razi")
 print("Current date and time:", datetime.now())
